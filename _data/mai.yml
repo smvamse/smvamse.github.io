@@ -1,0 +1,135 @@
+- name: All alarms go at once, or say every 10 minutes.
+  desc: The teacher who took away all the phones, should be punished.
+
+- name: Causing Dos by Abusing account locking due to brute force
+  desc: Eg. a) locking an account of a friend without knowing his password b) Consider, for example, an auction site on which several bidders are fighting over the same item. If the auction Web site enforced account lockouts, one bidder could simply lock the others' accounts in the last minute of the auction, preventing them from submitting any winning bids. An attacker could use the same technique to block critical financial transactions or e-mail communications.
+
+- name: Proxy blocking
+  desc: If you get your IP blocked(due to brute forcing or other attacks) while you're using a proxy address that a large number of people use, you can make them all go crazy.
+
+- name: Factor swiping
+  desc: For any 2FA based account, if you hide the 2nd factor, they won't be able to login.
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+
+#- name:
+#  desc: 
+

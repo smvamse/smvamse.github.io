@@ -5,13 +5,6 @@
 layout: home
 ---
 
-{% assign count = "" %}
-{% for post in site.posts %}
-{% assign count = count | plus: 1 %}
-{% endfor %}
-
-Posts: {{ count }}
-
 {% for post in site.posts %}
  ››› <a href="{{ post.url }}"> {{ post.title }} </a>
 {% endfor %}

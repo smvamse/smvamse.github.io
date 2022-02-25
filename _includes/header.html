@@ -1,3 +1,15 @@
+{% assign post_count = "" %}
+{% assign tag_count = "" %}
+
+{% for post in site.posts %}
+{% assign post_count = post_count | plus: 1 %}
+{% endfor %}
+
+{% for tag in site.tags %}
+{% assign tag_count = tag_count | plus: 1 %}
+{% endfor %}
+
+
 <header class="site-header">
 
   <div class="wrapper">
@@ -24,6 +36,8 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+            <a class="page-link" href="/"> Posts ({{ post_count }})</a>
+            <a class="page-link" href="/list/"> Checklist ({{ tag_count }})</a>
         </div>
       </nav>
     {%- endif -%}

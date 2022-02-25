@@ -1,0 +1,180 @@
+- technique: Templating
+  desc: Eg. username guessing by knowing that it always follows the form, firstname.lastname@company.com
+
+- technique: Reality Byproduct
+  desc: Because you cannot lock out an account that does not exist, only valid account names will lock. An attacker could use this fact to harvest usernames from the site, depending on the error responses.
+
+- technique: The startup time of a desktop app tells us how much functionality it has.
+  desc: 
+
+- technique: Response time
+  desc: Try to make the response time longer for valid usernames, by increasing the password length, which will increase the hashing time?
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+
+#- technique: 
+#  desc: 
+

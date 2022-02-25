@@ -1,0 +1,204 @@
+- mechanism: Whitelisting
+  description: For advanced users who want to protect their accounts from attack, give them the option to allow login only from certain IP addresses.
+
+- mechanism: Blacklisting
+  description: 
+
+- mechanism: Breaking Enumeration
+  description: Preventing enumeration by introducing randomness. Eg. Assign unique but random login URLs to blocks of users so that not all users can access the site from the same URL
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
+#- mechanism: 
+#  description: 
+
