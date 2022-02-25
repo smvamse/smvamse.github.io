@@ -1,0 +1,4 @@
+{% assign css_files = site.static_files | where: "css", true %}
+{% for my_css_file in css_files %}
+  <link href="{{ my_css_file.path }}" rel="stylesheet">
+{% endfor %}

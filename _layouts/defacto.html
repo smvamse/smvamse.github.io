@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+{% assign js_files = site.static_files | where: "js", true %}
+{% for my_script in js_files %}
+  <script src="{{ my_script.path }}"></script>
+{% endfor %}
+
+  </body>
+
+</html>

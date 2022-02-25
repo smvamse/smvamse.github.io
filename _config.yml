@@ -29,6 +29,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: smvamse
 github_username:  smvamse
 
+defaults:
+  - scope:
+      path: "assets/css"
+    values:
+      css: true
+  - scope:
+      path: "assets/js"
+    values:
+      js: true
+
+
 # Build settings
 theme: minima
 plugins:

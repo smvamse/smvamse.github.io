@@ -1,7 +1,11 @@
 ---
-layout: post
+layout: article
 title:  "Yahoo Chess Rankings"
-categories: jekyll update
+tags: jekyll update
 ---
+
+
+hel lwejl
+
 
 
