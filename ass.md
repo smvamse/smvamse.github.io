@@ -1,8 +1,10 @@
 ---
 layout: article
-title:  "List"
-permalink: /list/
+title:  "Ass"
+permalink: /ass/
 ---
+
+### List of Assumptions
 
 {% for tag in site.tags %}
   <strong>{{ tag[0] }}</strong>
