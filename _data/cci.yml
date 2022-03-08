@@ -1,8 +1,8 @@
 - name: Internal Communications
-  desc: 
+  desc: Companies use popular business communication tools such as Slack, Yammer and Facebook Workplace for communication between employees.
 
 - name: Customer Service / Help Desk
-  desc: 
+  desc: Zendesk
 
 - name: SignUp
   desc: for a) users, b) employees
@@ -10,11 +10,11 @@
 - name: Password Distribution
   desc: for a) users, b) employees
 
-#- name: 
-#  desc: 
+- name: Disclosed writeups for the site
+  desc: 
 
-#- name: 
-#  desc: 
+- name: SignIn
+  desc: Single-sign-on, OAuth
 
 #- name: 
 #  desc: 

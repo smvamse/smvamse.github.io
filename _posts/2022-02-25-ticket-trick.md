@@ -15,3 +15,6 @@ The first designer assumed that no one outside of the company will have access t
 
 ### References
 [How I hacked hundreds of companies through their helpdesk](https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c)
+
+[Bypassing Scratch Cards On Google Pay](https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385)
+

@@ -7,11 +7,11 @@
 - mechanism: Breaking Enumeration
   description: Preventing enumeration by introducing randomness. Eg. Assign unique but random login URLs to blocks of users so that not all users can access the site from the same URL
 
-#- mechanism: 
-#  description: 
+- mechanism: Invite Only
+  description: 
 
-#- mechanism: 
-#  description: 
+- mechanism: Verification Links
+  description: Email Verification, Phone no. Verification
 
 #- mechanism: 
 #  description: 

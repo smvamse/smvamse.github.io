@@ -16,3 +16,5 @@ On a more general note, you should also keep note of your site's policy restrict
 
 ### References
 1. [How I got your phone number through Facebook](https://medium.com/intigriti/how-i-got-your-phone-number-through-facebook-223b769cccf1)
+
+2. [Bypass HackerOne 2FA requirement and reporter blacklist](https://medium.com/pinoywhitehat/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5)
